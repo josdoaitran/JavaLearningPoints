@@ -10,3 +10,10 @@ Java Learning Roadmap
 
 
 ## Maven setup
+
+
+## Validate JSON against Schema in Java
+
+http://wilddiary.com/validate-json-against-schema-in-java/
+https://stackoverflow.com/questions/41120621/how-to-validate-json-data-by-using-jsonschema-in-jmeter
+
