@@ -22,10 +22,19 @@ Apache Logger
 Jenkins
 ```
 
-## 3. Java setup 
+## 3. Java Setup 
 
+We neeed to check whether Java is installed on our computer or not 
+```
+java --version
+java 
+javac
+```
 
-## 4. Maven setup
+## 4. Maven Setup
+
+- Install Maven in windows
+- Install Maven in Linux / Macosx
 
 
 ## Validate JSON against Schema in Java
