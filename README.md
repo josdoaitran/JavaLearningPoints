@@ -23,7 +23,8 @@ Jenkins
 ```
 ### Java Automation Testing Tools
 
-[Reference](https://coggle.it/diagram/WrNs--LDpjL8EvpY/t/java-automation-test):
+![Java Automation Test Image](https://github.com/josdoaitran/JavaLearningPoints/blob/master/images/java-automation-test.png)
+[Reference](https://coggle.it/diagram/WrNs--LDpjL8EvpY/t/java-automation-test)
 
 ## 3. Java Setup 
 
