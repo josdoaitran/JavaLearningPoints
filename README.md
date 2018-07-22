@@ -12,6 +12,15 @@ Java Learning Roadmap
 ```
 Maven, Gradle
 ```
+### Log information
+```
+Apache Logger
+```
+
+### CI - CD
+```
+Jenkins
+```
 
 ## Java setup 
 
