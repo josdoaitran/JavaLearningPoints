@@ -2,11 +2,11 @@
 JavaLearningPoints
 
 
-Java Learning Roadmap
+## 1. Java Learning Roadmap
 
 ![Java Learning Roadmap](https://github.com/josdoaitran/JavaLearningPoints/blob/master/JavaLearningRoadMap.png)
 
-## Java . - Tools
+## 2. Java . - Tools
 
 ### Build Tool:
 ```
@@ -22,10 +22,10 @@ Apache Logger
 Jenkins
 ```
 
-## Java setup 
+## 3. Java setup 
 
 
-## Maven setup
+## 4. Maven setup
 
 
 ## Validate JSON against Schema in Java
